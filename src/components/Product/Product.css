@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+   border-bottom: 1px solid lightgray;
+   margin-right: 5px;
+   
+}
+.product-name{
+    padding: 20px;
+    color: black;
+    /* font-weight: bold; */
+}
+.btn-purchase{
+    background-color: linen;
+    width: 150px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor:pointer;
+}
+.product-name img{
+    border-radius: 50%;
+}
